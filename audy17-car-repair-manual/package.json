@@ -1,0 +1,23 @@
+{
+  "name": "audy17-car-repair-manual",
+  "version": "1.0.0",
+  "description": "A comprehensive manual for car repairs, providing guides and references for maintenance and troubleshooting.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here'",
+    "test": "echo 'Test process can be defined here'"
+  },
+  "keywords": [
+    "car",
+    "repair",
+    "manual",
+    "maintenance"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
